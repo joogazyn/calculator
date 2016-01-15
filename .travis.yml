@@ -1,0 +1,6 @@
+language: python  
+jdk:  
+ - oraclejdk7
+branches:  
+ only:
+ - master
